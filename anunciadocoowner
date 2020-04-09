@@ -1,0 +1,367 @@
+<html lang="es"><!--<![endif]--><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Force Gaming</title>
+  <meta name="description" content="Anunciados Co-Owner y Director Ejecutivo de ForceGaming">
+  <meta name="author" content="Presidencia de la Nación">
+  <link rel="shortcut icon" href="img/favicon.png">
+
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#0072b8">
+  <meta name="msapplication-navbutton-color" content="#0072b8">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#0072b8">
+
+  <meta property="og:url" content="http://localhost:4000/proyectos/argentina/noticia.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Force Gaming">
+  <meta property="og:description" content="Anunciados Co-Owner y Director Ejecutivo de ForceGaming">
+  <meta property="og:image" content="/ejemplos/img/jumbotron.jpg">
+  <meta property="og:locale" content="es_AR">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Force Gaming">
+  <meta name="twitter:description" content="Anunciados Co-Owner y Director Ejecutivo de ForceGaming">
+  <meta name="twitter:image" content="/ejemplos/img/jumbotron.jpg">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="../../node_modules/argob-poncho/dist/css/poncho.min.css">
+  <link rel="stylesheet" href="../../node_modules/argob-poncho/dist/icono-arg.css">
+  
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+      <script src="/node_modules/html5shiv/html5shiv.js"></script>
+      <script src="/node_modules/respond.js/respond.min.js"></script>
+  <![endif]--> 
+  <style>
+  @media print {
+
+    main {
+         width: 90%;
+         margin: 0 auto;
+    }
+
+    main .jumbotron_bar {
+         display: none;
+    }
+
+    figure{
+      padding: 20px 0;
+      margin: 20px auto !important;
+      width: 80%;
+      
+    }
+
+    .panel-heading {
+      display: none;
+    }
+
+    section {
+      padding: 10px 0 !important;
+    }
+
+    .panel-body{
+      margin: 20px 0;
+    }
+
+    h1 {
+      margin: 10px 0 !important;
+    }
+    a.btn.btn-primary {
+      border: 3px solid #333;
+      font-size: 16px ;
+      font-weight: 500 ;
+      margin-bottom: 10px ;
+      padding: 10px 25px ;
+      text-transform: uppercase ;
+      
+
+
+      }
+    
+  }
+  </style>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script><script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script></head>
+
+    
+    
+
+  <body>
+
+    
+    
+<header>
+        <div class="hidden-print">
+          
+
+<div class="custom">
+	<div class="custom">
+	<div class="custom">
+			<nav class="navbar navbar-top navbar-default" role="navigation">
+
+            <div class="container">
+                <div>
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="true">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="http://forcegaming.cf/">
+                            <img alt="Brand" src="/img/argentinagob.png" height="50">
+                            <h1 class="sr-only">Casa Rosada <small>Presidencia de la Nación</small></h1>
+                        </a>
+                    </div>
+                    <div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-2" aria-expanded="true" style="">
+                        <ul class="nav navbar-nav navbar-right">
+
+                            <li class="dropdown" style="display: none;">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Autoridades <b class="caret"></b></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="#">Presidente<br><span class="small">Alberto Fernández</span></a></li>
+                                     <li><a href="#">Vicepresidente<br><span class="small">Cristina Fernández de Kirchner</span></a></li>
+                                     <li><a href="https://www.argentina.gob.ar/jefatura" target="_blank">Jefe de Gabinete de Ministros<br><span class="small">Santiago Cafiero</span></a></li>
+                                      <li><a href="http://www.argentina.gob.ar/secretariageneral">Secretario General<br><span class="small">Julio Vitobello</span></a></li>
+                                   
+                                </ul>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">GarrysMod<b class="caret"></b></a>
+                                <ul class="dropdown-menu submenu" role="menu">
+
+                                <div>
+                                  
+                                                                 
+                                    <div>
+                                        <li class="dropdown-header">Servidor CWRP</li>
+                                        
+                                        
+                                        
+                                        <li><a href="/infocomunidad.html" target="_blank">Nuestra Comunidad</a></li>
+                                        
+                                        
+                                        
+                                        <li><a href="/staffswrp.html">Staff SWRP</a></li>
+                                        <!--<li><a href="/informacion/videos">Videos</a></li>-->
+                                        <li><a href="/eventmastersswrp.html">Event-Masters SWRP</a></li>
+                                        <li><a href="/especializaciones.html">Info Especializaciones</a></li>
+                                        <li><a href="/">Aplique Staff SWRP</a></li>
+                                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSesepshTlZlhGPxdeucZ9ibSROH6Xklr54E5kOpeRWvmNbT2Q/viewform?edit2=2_ABaOnueQFk_oW2YhFrnq2w3A5viwBK83zpuRvTp34ci0">Aplique Event-Master</a></li>
+                                        <li><a href="https://audiencias.mininterior.gob.ar">Comandantes Actuales</a></li>
+                                        
+                                        
+                                        
+                                  </div>
+                              
+                                </div>
+
+                                 <div>
+                                    
+                                </div>
+                              </ul>
+                            </li>
+<li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Nuestra Comunidad<b class="caret"></b></a>
+                                <ul class="dropdown-menu submenu" role="menu">
+
+                                <div>
+                                  
+                                                                 
+                                    <div>
+                                        <li class="dropdown-header">Servidor CWRP</li>
+                                        
+                                        
+                                        
+                                        <li><a href="/infocomunidad.html" target="_blank">Nuestra Comunidad</a></li>
+                                        
+                                        
+                                        
+                                        
+                                        <!--<li><a href="/informacion/videos">Videos</a></li>-->
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                  </div>
+                              
+                                </div>
+
+                                 <div>
+                                    
+                                </div>
+                              </ul>
+                            </li>
+ 
+
+
+  
+                                     
+
+                            
+                            
+                            
+                            <li><a href="https://www.youtube.com/channel/UCwLjIYlkNdIQXbvdsX-Nwcg?view_as=subscriber" target="_blank"><span class="fa fa-youtube-play"></span></a></li>
+							<!--<li><a href="mailto:casarosada@argentina.gob.ar" target="_blank"><span class="fa fa-envelope"></span></a></li>-->
+                            <!--<li><a href="http://www.casarosada.gob.ar/buscador?searchword=&amp;searchphrase=all"><span class="glyphicon glyphicon-search"></span></a></li>-->
+                          
+                            <li><a href="https://invite.gg/forcegaming">DISCORD</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+</nav></div>
+</div>
+
+
+<div class="custom">
+				<div class="jumbotron_bar">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12">
+                    <ul class="list-inline pull-left">
+                      Owner <strong>TheLuMaster</strong>
+                    </ul>
+                    
+                  </div>
+                </div>
+              </div>
+			</div>
+
+
+</div>
+
+        </div>  
+      </div></header>
+
+
+<script type="text/javascript">
+  var busqueda = document.getElementById('buscar');
+  var buscar = document.getElementById('buscar-btn');
+  buscar.onclick = function () {
+    var buscado = busqueda.value;
+    location.href = "http://www.argentina.gob.ar/buscar/" + buscado;
+  };
+  
+  //PONCHO LABS
+  var url_string = window.location.href;
+  var url = new URL(url_string);
+  var lab = url.searchParams.get("lab");
+  
+  
+  if(lab == ""){
+    $("head").append('<link href="/proyectos/poncho/css/poncho_lab.css" rel="stylesheet">');
+  }
+</script>
+
+    <main role="main">
+      <!-- Articulo Principal -->
+
+<article>
+  <header>
+    <section class="jumbotron jumboarticle" style="background-image:url(https://cdn.discordapp.com/attachments/405016845553238016/662703621833621536/BANNER_FORCE_2.png);">
+      <div class="jumbotron_bar">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <ol class="breadcrumb pull-left">
+                <li><a href="http://forcegaming.cf/">ForceGaming</a></li>
+                <li><a href="#">Noticias</a></li>
+                
+                <li class="active"><span>Anunciado Co-Owner</span></li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="container">
+      <div class="row">
+          <div class="col-md-8 col-md-offset-2 overlap">
+              <div class="title-description">
+                <h1>Anunciados Co-Owner y Director Ejecutivo ForceGaming</h1>
+                <p>La administracion de forcegaming designo a el nuevo co-owner y nuevo director ejecutivo de la comunidad</p>
+                <div class="row">
+                  
+
+                  <div class="col-md-6 additional_data">
+                    <time class="text-muted">Publicado el 03 de enero de 2020</time>
+                  </div>
+                </div>
+                <hr>
+              </div>
+          </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="content_format">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <h2>Nuevo Co-Owner "Cuatros" , nueva administracion</h2>
+          <p>¡Hola!. Me llamo Joel Douman, mi seudónimo es Cu4tros y mi pasión es gritar.
+
+Ocupo el lugar de Co-Owner y me encargo principalmente de ayudar a los demás directores y supervisar sus movimientos, siendo el stalker de todos : ) . En resumidas cuentas soy un Co Owner pero del chino.
+
+Me conocen por mi Facha y en general si necesita ayuda podes acudir a mi, que yo siempre te voy a echar una mano :wink:</p>
+          
+          
+
+          
+
+          
+        </div>
+
+        
+        
+      </div>
+    </div>
+  </section>
+</article>
+
+
+
+
+
+    </main>
+    <footer class="main-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <img class="image-responsive" alt="Argentina.gob.ar - Presidencia de la Nación" src="img/argentinagob.png" height="50">
+        <p class="text-muted small"><a href="https://creativecommons.org/licenses/by/2.5/ar/">Los contenidos de forcegaming.cf están licenciados bajo Creative Commons Reconocimiento 2.5 Argentina License</a></p>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <ul>
+          <li><a href="https://invite.gg/forcegaming">Nuestro Discord</a></li>
+          <li><a href="https://steamcommunity.com/groups/ForceGamingLatinoamerica">Nuestro Grupo De Steam</a></li>
+          
+          
+        </ul>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"  rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="dist/css/poncho.min.css" rel="stylesheet">
+<link href="dist/css/icono-arg.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js”></script>
+    
+  
+
+</body></html>
